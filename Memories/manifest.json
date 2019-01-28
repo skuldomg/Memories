@@ -1,0 +1,10 @@
+﻿{
+   "Name": "Memories",
+   "Author": "skuldomg",
+   "Version": "1.0",
+   "Description": "Adds a photoalbum from which past events can be reviewed.",
+   "UniqueID": "skuldomg.memories",
+   "EntryDll": "memories.dll",
+   "MinimumApiVersion": "2.10.1",
+   "UpdateKeys": ["Nexus:0000"]    
+}
